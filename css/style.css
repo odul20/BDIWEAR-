@@ -15,7 +15,12 @@
   font-size: 14px;
 }
 
-
+.picto{
+   width: 25px;
+   height: 25px;
+   padding-top: 25px;
+   margin-left: 40px;
+}
 .bar{
    background-color: white;
    color: black;
@@ -32,24 +37,14 @@
    border-radius: 18px;
    border: 1px solid;
    background-color: #f2f2f2;
+   margin-right: auto;
 }
 
 .bdiwear-header{
    width: 100px;
    height: 100px;
 }
-.icon-header{
-   width: 30px;
-   height: 30px;
-   padding-top: 25px;
-   margin-left: 40px;
-}
-.logo-shop{
-   width: 30px;
-   height: 30px;
-   margin-top: 25px;
-   padding-left: 40px;
-}
+
  h1,h2,h3{
     color: rgb(125, 48, 212);
     border-left: 10px solid rgb(125, 48, 212);
